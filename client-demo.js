@@ -5,7 +5,7 @@
 let chat = new EncryptedChatLib();
 
 //  use string type for all data
-chat.useStringMode(true);
+// chat.useStringMode(true);
 
 // chat.setEncode((data, pass, oneWay) => {
 // 	return chat.Buffer.from(data);
